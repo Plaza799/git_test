@@ -1,0 +1,1 @@
+"Hello Odi, this is my  first code by Git." 
